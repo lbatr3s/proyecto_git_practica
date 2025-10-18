@@ -1,12 +1,12 @@
 
 {
-    "nombre": "Juan Pérez",
-    "rol": "Desarrollador Full Stack",
-    "descripcion": "Apasionado por el desarrollo web y las nuevas tecnologías. Me encanta aprender y compartir conocimiento con la comunidad.",
+    "nombre": "Jose Humberto NAjar ",
+    "rol": "Desarrollador Full Stack y estudiante de ingenieria en sistemas y ciencias de la computacion",
+    "descripcion": "Soy de guatemala",
     "social": {
-        "github": "https://github.com/juanperez",
-        "linkedin": "https://linkedin.com/in/juanperez",
-        "twitter": "https://twitter.com/juanperez",
-        "email": "juan.perez@example.com"
+        "github": "https://github.com/humberovenavente",
+        "linkedin": "https://linkedin.com/in/humbertovenavente",
+        "twitter": "https://twitter.com/humbertovenavente",
+        "email": "humbertovenavente@gmail.com"
     }
 }
