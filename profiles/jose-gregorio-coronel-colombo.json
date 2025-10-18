@@ -1,0 +1,9 @@
+{
+    "nombre": "Jose Gregorio Coronel Colombo",
+    "rol": "Estudiante y Desarrollador",
+    "descripcion": "Apasionado del futbol y los deportes en general",
+    "social": {
+        "github": "https://github.com/Gregorio0505",
+        "email": "jcoronel@unis.edu.gt"
+    }
+}
