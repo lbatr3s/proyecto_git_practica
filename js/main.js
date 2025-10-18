@@ -22,10 +22,9 @@ async function cargarPerfiles() {
     const archivosPerfiles = [
 
         'pablo.json',
-        'ejemplo.json'
         'andres-rojas.json',
         'ejemplo.json',
-        'jose-gregorio-coronel-colombo.json'
+        'jose-gregorio-coronel-colombo.json',
     ];
 
     const contenedor = document.getElementById('profiles-container');
