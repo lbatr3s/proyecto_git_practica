@@ -20,6 +20,8 @@ document.addEventListener('DOMContentLoaded', function() {
 async function cargarPerfiles() {
     // Lista de archivos de perfil a cargar
     const archivosPerfiles = [
+        'ejemplo.json',
+        'sofia-sandoval.json'  // ← Agrega esta línea
     ];
 
     const contenedor = document.getElementById('profiles-container');
@@ -74,7 +76,7 @@ function validarPerfil(perfil) {
 }
 
 /**
- * Crear una tarjeta de perfil en el DOM
+ * Crear una tarjeta de perfil en el DOMa
  * @param {Object} perfil - Datos del perfil
  * @param {HTMLElement} contenedor - Elemento donde se agregará la tarjeta
  */

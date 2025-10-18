@@ -1,0 +1,10 @@
+
+{
+    "nombre": "Sofia Sandoval",
+    "rol": "Desarrolladora",
+    "descripcion": " Apasionada por la transformación digital y la innovación tecnológica. Me encanta aprender y compartir conocimientos con la comunidad.",
+    "social": {
+        "github":"https://github.com/SSIsa14",
+        "email": "sofisandoval1405@gmail.com"
+    }
+}
